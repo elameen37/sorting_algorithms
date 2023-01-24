@@ -26,9 +26,18 @@ At the end of this project, I was able to achieve:
 12. Function that sorts a deck of cards.
 
 
+## Additional info :construction:
+### Resources
+
+- Ubuntu 20.04 LTS
+
+- betty linter
+
+
 ### Try It On Your Machine computer:	
 ```bash
-git clone https://github.com/elameen37/alx-low_level_programming.git
+git clone https://github.com/elameen37/sorting_algorithms.git
+
 cd sorting_algorithms
 
 NEEDS C files of print_lists and print_array of integers
