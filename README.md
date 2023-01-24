@@ -29,7 +29,9 @@ At the end of this project, I was able to achieve:
 ### Try It On Your Machine computer:	
 ```bash
 git clone https://github.com/elameen37/alx-low_level_programming.git
-cd 0x1B-sorting_algorithms
+cd sorting_algorithms
+
 NEEDS C files of print_lists and print_array of integers
+
 gcc -Wall -Werror -Wextra -pedantic MAIN_FILE.c FILENAME.c -o NEW_FILENAME
 ```
